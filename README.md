@@ -39,7 +39,7 @@ To run this project, you will need:
 
 ## How to Play
 - **Start the Game**: Press the Space bar or mouse left click to start the Game and make your first jump.
-- **Jumping**: Use the "Jump" button or tap to make the ball bounce upward.
+- **Jumping**: Use the Space bar or mouse left click to make the ball bounce upward.
 - **Collect Orbs**: Collect colored orbs to increase your score and change your ball's color.
 - **Avoid Obstacles**: Dodge obstacles that do not match your current color to survive.
 
