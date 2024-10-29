@@ -66,3 +66,8 @@ The project contains the following key folders:
 
 ## License
 This project is open-source and available for anyone to use and modify. Feel free to contribute, report issues, or suggest features.
+
+##
+
+##### contact me here :)
+ https://www.linkedin.com/in/max-steiner24/
